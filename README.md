@@ -1,4 +1,5 @@
 # HelloWorldFreestyle
+Jeg er begyndt på en Microsoft Teams kopi
 
 ## Formål
 Freestyle opgavens formål er, at give jer et 'frirum' til at eksperimentere med den HTML, I alle har stiftet bekendskab med i introduktionen. Samtidigt får I her mulighed for, at dykke ned i dokumentationen, hvor I kan læse om, og hermed blive klogere på, de HTML elementer I allerede har arbejdet med i praksis. Det er arbejdet med at læse og forstå dokumentationen som skal klæde jer på til, at træffe nogen kvalificerede beslutninger omkring hvilke tags i selvstændigt implementerer i jeres projekt.
@@ -19,4 +20,3 @@ Præsenterer introducerende indhold, det kunne eksempelvis være en forklarende 
 
 
 Happy Hacking
-- Tak
