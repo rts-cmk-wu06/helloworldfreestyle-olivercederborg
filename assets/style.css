@@ -47,7 +47,15 @@ header .searchbar input {
 }
 
 header .profile {
-  padding: 5px 8px;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 8px;
+  margin-right: 5px;
 }
 
 header .profile:hover {
@@ -55,7 +63,7 @@ header .profile:hover {
 }
 
 header .profile img {
-  height: 35px;
+  height: 32px;
   border-radius: 1000%;
 }
 
